@@ -43,6 +43,9 @@ while True:
     if ivestis == "3":
         print(pajamos)
         print("-----------------------------------------")
+    if ivestis == "4":
+        print(islaidos)
+        print("-----------------------------------------")
 
 
 
