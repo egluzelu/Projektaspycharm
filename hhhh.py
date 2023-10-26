@@ -40,4 +40,13 @@ while True:
         islaidos.append(islaidu_eilute)
         print(f"Per {menuo} men. jusu islaidos uz {islaidu_tipas} buvo {islaidu_suma} eur.")
         print("-----------------------------------------")
+    if ivestis == "3":
+        print(pajamos)
+        print("-----------------------------------------")
+    if ivestis == "4":
+        print(islaidos)
+        print("-----------------------------------------")
+    if ivestis == "5":
+        for el in l:
+            pozicijos.append(el[1])
 
