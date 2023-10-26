@@ -1,3 +1,3 @@
 print("hello next project")
-print("")
+print("prideta ir istrinta")
 print("po antro komito")
