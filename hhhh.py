@@ -46,7 +46,5 @@ while True:
     if ivestis == "4":
         print(islaidos)
         print("-----------------------------------------")
-    if ivestis == "5":
-        for el in l:
-            pozicijos.append(el[1])
+
 
